@@ -193,3 +193,7 @@ a {
 a:hover, a:focus, a:active {
   color: #2CA4C6;
 }
+.image-icon:hover .image{
+  opacity:0.3;
+
+}
